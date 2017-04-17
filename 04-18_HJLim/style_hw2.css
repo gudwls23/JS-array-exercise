@@ -1,0 +1,18 @@
+.square{
+  width: 300px;
+  height: 300px;
+}
+.red {
+  background-color: red;
+  z-index = 1;
+}
+
+.container{
+  display: inline-block;
+  flex-wrap: wrap;
+}
+
+.allbuttons {
+  max-width: 300px;
+  text-align: center;
+}
